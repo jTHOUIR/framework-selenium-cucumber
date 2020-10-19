@@ -38,12 +38,10 @@ public class AuthentificationPage {
 		userName.sendKeys("Admin");
 	}
 
-	/* Methods */
 	public void sendUserPassword() {
 		userPassword.sendKeys("admin123");
 	}
 
-	/* Methods */
 	public void clicLoginButton() {
 		btnLogin.click();
 	}

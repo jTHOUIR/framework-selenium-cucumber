@@ -4,8 +4,8 @@ Feature: Authentification - Param - OrangeHRM
 
   Background: 
     Given J ouvre l application OrangeHRM
-    When Je saisie le nom d utilisateur "Admin"
-    And Je saisie le mot de passe "admin123"
+    When Je saisie le nom d utilisateur "Admin" 
+    And Je saisie le mot de passe "admin123" 
     And Je clique sur le bouton login
     Then Redirection vers la page Home
 

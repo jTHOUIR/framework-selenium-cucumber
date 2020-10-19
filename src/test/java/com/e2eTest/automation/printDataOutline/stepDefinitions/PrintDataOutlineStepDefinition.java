@@ -3,7 +3,7 @@ package com.e2eTest.automation.printDataOutline.stepDefinitions;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import com.e2eTest.automation.printDataOutline.pageObject.PrintDataOutlinePage;
+import com.e2eTest.automation.printDataOutline.pageObjects.PrintDataOutlinePage;
 import com.e2eTest.automation.util.Setup;
 
 import cucumber.api.java.en.Given;

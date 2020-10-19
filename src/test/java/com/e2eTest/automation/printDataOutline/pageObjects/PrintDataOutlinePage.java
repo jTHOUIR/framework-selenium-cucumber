@@ -1,4 +1,4 @@
-package com.e2eTest.automation.printDataOutline.pageObject;
+package com.e2eTest.automation.printDataOutline.pageObjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

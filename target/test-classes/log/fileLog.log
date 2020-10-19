@@ -1,0 +1,15 @@
+2020-10-19 23:47:30,683 - com.e2eTest.automation.util.AbstractPage - INFO - J ouvre l application OrangeHRM
+2020-10-19 23:47:30,784 - com.e2eTest.automation.util.AbstractPage - INFO - saisir le nom d'utilisateur
+2020-10-19 23:47:30,857 - com.e2eTest.automation.util.AbstractPage - INFO - saisir le mot de passe
+2020-10-19 23:47:33,633 - com.e2eTest.automation.util.AbstractPage - INFO - Je clique sur le bouton login
+2020-10-19 23:47:33,669 - com.e2eTest.automation.util.AbstractPage - INFO - Redirection vers la page Home
+2020-10-19 23:47:46,093 - com.e2eTest.automation.util.AbstractPage - INFO - J ouvre l application OrangeHRM
+2020-10-19 23:47:46,181 - com.e2eTest.automation.util.AbstractPage - INFO - saisir le nom d'utilisateur
+2020-10-19 23:47:46,254 - com.e2eTest.automation.util.AbstractPage - INFO - saisir le mot de passe
+2020-10-19 23:47:49,170 - com.e2eTest.automation.util.AbstractPage - INFO - Je clique sur le bouton login
+2020-10-19 23:47:49,205 - com.e2eTest.automation.util.AbstractPage - INFO - Redirection vers la page Home
+2020-10-19 23:48:01,373 - com.e2eTest.automation.util.AbstractPage - INFO - J ouvre l application OrangeHRM
+2020-10-19 23:48:01,462 - com.e2eTest.automation.util.AbstractPage - INFO - saisir le nom d'utilisateur
+2020-10-19 23:48:01,535 - com.e2eTest.automation.util.AbstractPage - INFO - saisir le mot de passe
+2020-10-19 23:48:04,433 - com.e2eTest.automation.util.AbstractPage - INFO - Je clique sur le bouton login
+2020-10-19 23:48:04,466 - com.e2eTest.automation.util.AbstractPage - INFO - Redirection vers la page Home
