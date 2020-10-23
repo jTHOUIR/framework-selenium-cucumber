@@ -17,8 +17,8 @@ public class AuthentificationParamPage {
 	
 	final static String USER_NAME_ID = "txtUsername";
 	final static String USER_PASSWORD_ID = "txtPassword";
-	final static String MENU_BUZZ = "menu_buzz_viewBuzz";
-	final static String MENU_TIME = "menu_time_viewTimeModule";
+	final static String MODULE_BUZZ = "menu_buzz_viewBuzz";
+	final static String MODULE_TIME = "menu_time_viewTimeModule";
 
 	/* @FindBy */
 	@FindBy(how = How.ID, using = USER_NAME_ID)
@@ -27,11 +27,11 @@ public class AuthentificationParamPage {
 	@FindBy(how = How.ID, using = USER_PASSWORD_ID)
 	public static WebElement userPassword;
 	/* @FindBy */
-	@FindBy(how = How.ID, using = MENU_BUZZ)
-	public static WebElement menuBuzz;
+	@FindBy(how = How.ID, using = MODULE_BUZZ)
+	public static WebElement moduleBuzz;
 	/* @FindBy */
-	@FindBy(how = How.ID, using = MENU_TIME)
-	public static WebElement menuTime;
+	@FindBy(how = How.ID, using = MODULE_TIME)
+	public static WebElement moduleTime;
 
 	/* Methods */
 	public void sendUserNameParam(String name) {
@@ -45,12 +45,12 @@ public class AuthentificationParamPage {
 
 	/* Methods */
 	public void clickBuzz() {
-		menuBuzz.click();
+		moduleBuzz.click();
 		
 	}
 	/* Methods */
 	public void clickTime() {
-		menuTime.click();
+		moduleTime.click();
 		
 	}
 
